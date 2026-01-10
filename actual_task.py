@@ -123,7 +123,7 @@ unk_id=token_ids["<UNK>"]
 cls_id=token_ids["<CLS>"]
 sep_id=token_ids["<SEP>"]
 
-##training
+##trainin
 
 ##sentences --> contexual tensors
 encoder=Encoder(src_vocab_size=src_vocab_size, embed_size=embed_size, heads=heads, max_length=max_seq_len, num_layers=num_layers, dropout=0, device=device, forward_expansion=forward_expansion)
