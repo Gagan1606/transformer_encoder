@@ -13,5 +13,9 @@ Process:
 • creating a source vocabulary and token ids from the whole data set
 • The main challenge was that the data was not clean and is a bunch of sentences in each cell, so needed to break each dialog into sentences and find their corresponding label and feed them into the encoder. 
 • loading and batching the data
-• padding and adding special tokens in the front and the end and create a mask and send it through the encoder and classify and train it. 
+• padding and adding special tokens in the front and the end and create a mask and send it through the encoder and classify and train it.
+
+Result - achived an accuracy of 83% and average loss of 0.68
+The complete output file is attached
+Google colab link in case you want to check out - [link](https://colab.research.google.com/drive/1ONKWpUC63S1i8vPdD3Mf3zTeEZQBqF8q#scrollTo=sla5hcJQr7LE)
 ```
