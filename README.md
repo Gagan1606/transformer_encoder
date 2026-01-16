@@ -18,4 +18,5 @@ Process:
 Result - achived an accuracy of 83% and average loss of 0.68
 The complete output file is attached
 Google colab link in case you want to check out - https://colab.research.google.com/drive/1ONKWpUC63S1i8vPdD3Mf3zTeEZQBqF8q#scrollTo=sla5hcJQr7LE
+Best weights link - https://drive.google.com/file/d/11qD8EXf8kgnMhS2kFqPRBIxqvyIwNKmF/view?usp=sharing
 ```
