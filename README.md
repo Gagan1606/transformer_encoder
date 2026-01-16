@@ -1,3 +1,4 @@
+```
 Aim: 
 Use the transformer encoder architecture and build and train a model from scratch with dailydialog dataset
 
@@ -12,3 +13,4 @@ Process:
 creating a source vocabulary and token ids from the whole data set
 loading and batching the data
 padding and adding special tokens in the front and the end and create a mask and send it through the encoder and classify and train it. 
+```
